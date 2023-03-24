@@ -23,7 +23,7 @@ const foodList = [
 
 console.log(foodList)
 
-const totalCount= foodList.length
-const fifthfood = [4]
+// const totalCount= foodList.length
+// const fifthfood = [4]
 
-console.log(fifthfood)
+// console.log(fifthfood)
